@@ -1,2 +1,2 @@
 @echo off
-start "" "C:\Program Files\Git\usr\bin\bash.exe" -c "./push_build.sh"
+start "" "C:\Program Files\Git\git-bash.exe" -c "./push_build.sh"
